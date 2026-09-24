@@ -1,0 +1,17 @@
+
+{
+  "name": "electron-file-explorer",
+  "version": "1.0.0",
+  "description": "Кросс-платформенное приложение для просмотра файлов и каталогов",
+  "author": "Магеррамова Айгунь",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^44.4.5"
+  }
+}
